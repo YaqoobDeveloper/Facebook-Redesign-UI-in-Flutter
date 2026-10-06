@@ -77,8 +77,8 @@ If you're new to Flutter, check out these resources:
 
 Flutter Developer & YouTuber
 
-🌐 **Website:** [yaqoobdeveloper.com](https://www.yaqoobdeveloper.com)
+▶️ **Watch on YouTube:** [Facebook Redesign UI Demo](https://youtube.com/shorts/xcePQGtFnQc)
 
-▶️ **YouTube:** [@YaqoobDeveloper](https://www.youtube.com/@YaqoobDeveloper)
+▶️ **YouTube:** [@yaqoob_developer](https://youtube.com/@yaqoob_developer)
 
 ⭐ If you find this project useful, consider giving the repository a **star**!
