@@ -4,7 +4,7 @@ A modern **Facebook-inspired social media UI** built with Flutter. This project 
 
 ## 🚀 Demo & Project
 
-▶️ **Watch on YouTube:** [YouTube Demo](https://www.youtube.com/@YaqoobDeveloper)
+▶️ **Watch on YouTube:** [Facebook Redesign UI Demo](https://youtube.com/shorts/xcePQGtFnQc)
 
 🌐 **View Project:** [yaqoobdeveloper.com](https://www.yaqoobdeveloper.com/projects/facebook-redesign-ui-flutter)
 
@@ -77,7 +77,7 @@ If you're new to Flutter, check out these resources:
 
 Flutter Developer & YouTuber
 
-🌐 **Website:** [yaqoobdeveloper.com](https://yaqoobdeveloper.com)
+🌐 **Website:** [yaqoobdeveloper.com](https://www.yaqoobdeveloper.com)
 
 ▶️ **YouTube:** [@YaqoobDeveloper](https://www.youtube.com/@YaqoobDeveloper)
 
